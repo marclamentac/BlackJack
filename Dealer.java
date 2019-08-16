@@ -1,7 +1,8 @@
 package blackjackfundis;
 import java.util.ArrayList;
 /**
- * @Marc Lamentac
+ * Original Code written by Janos @ Code Review Stack Exchange
+ * Modified by Marc Lamentac & Steven Carleton
  */
 public class Dealer
 {

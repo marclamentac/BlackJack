@@ -3,7 +3,8 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * @Marc Lamentac
+ * Original Code written by Janos @ Code Review Stack Exchange
+ * Modified by Marc Lamentac & Steven Carleton
  */
 public class Deck
 {

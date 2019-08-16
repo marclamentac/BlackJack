@@ -1,4 +1,5 @@
 package blackjackfundis;
+import static blackjackfundis.Blackjack.bet;
 import static blackjackfundis.HandValue.calcHandValue;
 import static blackjackfundis.PlayerHit.hit;
 import static blackjackfundis.Result.lose;
@@ -7,7 +8,8 @@ import static blackjackfundis.WentOver.checkBust;
 import static blackjackfundis.YourBet.bet;
 import java.util.*;
 /**
- * @Marc Lamentac
+ * Original Code written by Janos @ Code Review Stack Exchange
+ * Modified by Marc Lamentac & Steven Carleton
  */
 public class Blackjack
 {
